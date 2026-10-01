@@ -1,7 +1,7 @@
-import Banner from '@/app/Componenets/Banner'
-import APImapping from '@/app/Componenets/APImapping';
+import Banner from "@/app/Componenets/Banner";
+import APImapping from "@/app/Componenets/APImapping";
 
-const WorkoutsPage = () => {
+const Home = () => {
     return (
         <>
             <Banner />
@@ -10,4 +10,4 @@ const WorkoutsPage = () => {
     );
 };
 
-export default WorkoutsPage;
+export default Home;
